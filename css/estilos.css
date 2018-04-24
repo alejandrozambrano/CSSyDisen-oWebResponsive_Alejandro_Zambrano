@@ -293,6 +293,7 @@ img{
 	.contenedorheader {
 		display: flex;
 		flex-direction: column;
+		width: 50%;
 	}
 
 	#inicio {
@@ -308,6 +309,7 @@ text-align: center;
 		display: flex;
 		flex-direction: column;
 		text-align: center;
+		width: 50%;
 
 	}
 
@@ -338,6 +340,7 @@ text-align: center;
 	.contenedorfooter {
 		display: flex;
 		flex-direction: column;
+		width: 50%;
 	}
 
 	#contacto{
