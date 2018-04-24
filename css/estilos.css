@@ -290,6 +290,10 @@ img{
 
 @media (max-width:480px) {
 
+	body {
+		width: auto;
+	}
+
 	.contenedorheader {
 		display: flex;
 		flex-direction: column;
